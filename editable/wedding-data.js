@@ -13,7 +13,10 @@ window.WEDDING_DATA = {
   },
 
   invite: {
-    kicker: "Together with their families",
+    kicker: "With the blessings of their family,",
+    hostsFirst: "Anamika",
+    hostsSecond: "Anil",
+    hosts: "Anamika and Anil",
     line: "cordially invite you to celebrate the Tilak Ceremony of Abhishek",
   },
 
@@ -40,15 +43,16 @@ window.WEDDING_DATA = {
     {
       year: "20 November",
       title: "TILAK CEREMONY",
-      text: "06.00 PM Onwards, Shri Dev Villa, Kanpur",
+      text: "06.00 PM Onwards from Shri Dev Villa, Kanpur",
       image: "story-1",
     },
   ],
 
   blessing: {
-    line: "May your intentions be one, may your hearts beat as one.",
-    translation: "Two souls, two families, united with love and blessings for a lifetime of joy and togetherness.",
-    source: "A blessing from both families",
+    line: "May divine grace and auspicious blessings illuminate your sacred journey.",
+    translation: "On this auspicious occasion of your Tilak, may the divine bless you with happiness, prosperity, and an abundance of joy as you embark on this sacred new chapter of life.",
+    source: "A blessing from Groom's Family",
+    honoree: "Abhishek",
   },
 
   footer: {
